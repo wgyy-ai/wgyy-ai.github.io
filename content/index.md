@@ -1,6 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to 微光医影
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+微光虽小，愿与大家同行~
