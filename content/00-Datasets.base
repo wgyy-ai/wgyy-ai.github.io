@@ -1,0 +1,67 @@
+filters: dataset_entry == true && file.ext == "md" && !file.path.contains("/_templates/")
+properties:
+  dataset_name:
+    displayName: Dataset
+  modality:
+    displayName: Modality
+  task_type:
+    displayName: Task Type
+  anatomical_area:
+    displayName: Area
+  anatomical_structures:
+    displayName: Structures
+  number_of_categories:
+    displayName: Categories
+  data_volume:
+    displayName: Volume
+  file_format:
+    displayName: Format
+  publication_date:
+    displayName: Publication Date
+  source_url:
+    displayName: Official Website
+  file.path:
+    displayName: Path
+views:
+  - type: table
+    name: All Datasets
+    order:
+      - dataset_name
+      - modality
+      - task_type
+      - dimensions
+      - anatomical_structures
+      - anatomical_area
+      - number_of_categories
+      - data_volume
+      - file_format
+      - publication_date
+      - source_url
+      - file.path
+    sort: []
+    columnSize:
+      note.modality: 174
+      note.task_type: 146
+      note.dimensions: 64
+      note.anatomical_area: 181
+      note.number_of_categories: 176
+  - type: table
+    name: Imaging Focus
+    groupBy:
+      property: modality
+      direction: ASC
+    order:
+      - dataset_name
+      - modality
+      - task_type
+      - anatomical_area
+      - anatomical_structures
+      - data_volume
+  - type: cards
+    name: Cards
+    order:
+      - dataset_name
+      - modality
+      - task_type
+      - anatomical_area
+      - data_volume
