@@ -4,8 +4,9 @@ configuration:
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
-  analytics:
-    provider: plausible
+  analytics: 
+    provider: "google"
+    tagId: "G-ETJHLRFMR3"
   locale: zh-CN
   baseUrl: wgyy-ai.github.io
   ignorePatterns:
