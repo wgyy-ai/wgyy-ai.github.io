@@ -5,8 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics: 
-    provider: "google"
-    tagId: "G-ETJHLRFMR3"
+    - provider: "google"
+    - tagId: "G-ETJHLRFMR3"
   locale: zh-CN
   baseUrl: wgyy-ai.github.io
   ignorePatterns:
