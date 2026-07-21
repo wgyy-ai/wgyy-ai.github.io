@@ -126,33 +126,33 @@ Take representative MSD dataset for example:
 
 3D-IRCADB/
 
-|--  3Dircadb1.1
+├── 3Dircadb1.1
 
-|  聽 |--  Creative Commons Attribution.pdf
+│   ├── Creative Commons Attribution.pdf
 
-|  聽 鈹傗攢  Creative Commons Legal Code.pdf
+│   │── Creative Commons Legal Code.pdf
 
-|  聽 鈹傗攢  LABELLED_DICOM.zip
+│   │── LABELLED_DICOM.zip
 
-|  聽 鈹傗攢  MASKS_DICOM.zip
+│   │── MASKS_DICOM.zip
 
-|  聽 鈹傗攢  MESHES_VTK.zip
+│   │── MESHES_VTK.zip
 
-|  聽 鈹傗攢  PATIENT_DICOM.zip
+│   │── PATIENT_DICOM.zip
 
-|--  ...
+├── ...
 
-|--  3Dircadb1.20
+├── 3Dircadb1.20
 
-|  聽 |--  Creative Commons Attribution.pdf
+│   ├── Creative Commons Attribution.pdf
 
-|  聽 |--  ...
+│   ├── ...
 
-|--  ...
+├── ...
 
-`--  3Dircadb2.2
+└── 3Dircadb2.2
 
-聽 聽 |--  ...
+    ├── ...
 
 ```
 

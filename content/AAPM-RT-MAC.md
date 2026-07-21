@@ -79,48 +79,49 @@ Each subfolder under the dataset folder is a case. The training set, validation 
 
 Dataset
 
-|  
-|--  AAPM-RT-MAC
+│
 
-|  聽 |--  RTMAC-LIVE-001
+├── AAPM-RT-MAC
 
-|  聽 |  聽 |--  08-26-1998-NA-ResearchHead and neck-48089
+│   ├── RTMAC-LIVE-001
 
-|  聽 |  聽 |  聽 |--  1.000000-RS Unapproved Structure Set-62326
+│   │   ├── 08-26-1998-NA-ResearchHead and neck-48089
 
-|  聽 |  聽 |  聽 |  聽 |--  1-1.dcm
+│   │   │   ├── 1.000000-RS Unapproved Structure Set-62326
 
-|  聽 |  聽 |  聽 |--  3.000000-Ax T2 TSE-90761
+│   │   │   │   ├── 1-1.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  1-001.dcm
+│   │   │   ├── 3.000000-Ax T2 TSE-90761
 
-|  聽 |  聽 |  聽 |  聽 |--  1-002.dcm
+│   │   │   │   ├── 1-001.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  1-003.dcm
+│   │   │   │   ├── 1-002.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  ...
+│   │   │   │   ├── 1-003.dcm
 
-|  聽 |--  RTMAC-LIVE-002
+│   │   │   │   ├── ...
 
-|  聽 |  聽 |--  09-26-1998-NA-Simulation ProtocolsHead 聽Neck-94350
+│   ├── RTMAC-LIVE-002
 
-|  聽 |  聽 |  聽 |--  1.000000-RS Unapproved Structure Set-10263
+│   │   ├── 09-26-1998-NA-Simulation ProtocolsHead  Neck-94350
 
-|  聽 |  聽 |  聽 |  聽 |--  1-1.dcm
+│   │   │   ├── 1.000000-RS Unapproved Structure Set-10263
 
-|  聽 |  聽 |  聽 |--  8.000000-T2 TSE-59062
+│   │   │   │   ├── 1-1.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  1-001.dcm
+│   │   │   ├── 8.000000-T2 TSE-59062
 
-|  聽 |  聽 |  聽 |  聽 |--  1-002.dcm
+│   │   │   │   ├── 1-001.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  1-003.dcm
+│   │   │   │   ├── 1-002.dcm
 
-|  聽 |  聽 |  聽 |  聽 |--  ...
+│   │   │   │   ├── 1-003.dcm
 
-|  聽 |--  ...
+│   │   │   │   ├── ...
 
-|  聽 |--  metadata.csv
+│   ├── ...
+
+│   ├── metadata.csv
 
 ```
 
