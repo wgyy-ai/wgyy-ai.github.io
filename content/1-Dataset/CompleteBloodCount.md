@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Complete Blood Count"
 dataset_path: "1-Dataset/CompleteBloodCount.md"
@@ -123,8 +123,9 @@ Complete Blood Cell Count Dataset
 
 ## Authors and Institutions
 
-Mohammad Mahmudul Alam锛圔angladesh University of Engineering and Technology, People's Republic of Bangladesh锛?
-Mohammad Tariqul Islam锛圔angladesh University of Engineering and Technology, People's Republic of Bangladesh锛?
+Mohammad Mahmudul Alam（Bangladesh University of Engineering and Technology, People's Republic of Bangladesh）
+
+Mohammad Tariqul Islam（Bangladesh University of Engineering and Technology, People's Republic of Bangladesh）
 
 ## Source Information
 

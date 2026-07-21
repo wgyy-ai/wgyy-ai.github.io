@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "CholecT45 Dataset"
-dataset_path: "1-Dataset/CholecT45.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: CholecT45 Dataset
+dataset_path: 1-Dataset/CholecT45.md
+dimensions: 2D
+modality: Endoscopy
+task_type: Recognition, Segmentation
+anatomical_structures: 3D reconstruction, VSLAM
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
+number_of_categories: "128"
+data_volume: "90489"
 file_format: ""
-source_url: "https://github.com/CAMMA-public/cholect45"
-publication_date: "2022-04"
+source_url: https://github.com/CAMMA-public/cholect45
+publication_date: 2022-04
 tags:
   - dataset
 ---

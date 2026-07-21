@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CP-CHILD"
 dataset_path: "1-Dataset/CP-CHILD.md"
@@ -45,13 +45,13 @@ The primary goal of this dataset is to support the development and evaluation of
 
 ## Label Information Statistics
 
-| Anatomical Structure | Polyp              | Non-Polyp         |
-|-----------------------|--------------------|-------------------|
-| Occurrences          | 8100              | 1400             |
-| Percentage           | 85.26%            | 14.74%           |
-| Minimum Volume (cm鲁) | 256 x 256          | 256 x 256         |
-| Median Volume (cm鲁)  | 256 x 256          | 256 x 256         |
-| Maximum Volume (cm鲁) | 256 x 256          | 256 x 256         |
+| Anatomical Structure | Polyp     | Non-Polyp |
+| -------------------- | --------- | --------- |
+| Occurrences          | 8100      | 1400      |
+| Percentage           | 85.26%    | 14.74%    |
+| Minimum Volume (cm³) | 256 x 256 | 256 x 256 |
+| Median Volume (cm³)  | 256 x 256 | 256 x 256 |
+| Maximum Volume (cm³) | 256 x 256 | 256 x 256 |
 
 
 ## Visualization

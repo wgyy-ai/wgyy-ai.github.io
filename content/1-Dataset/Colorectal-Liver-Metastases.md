@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Colorectal-Liver-Metastases"
 dataset_path: "1-Dataset/Colorectal-Liver-Metastases.md"
@@ -47,13 +47,13 @@ Number of 2D slices in the dataset: 17639.
 
 ## Label Information Statistics
 
-| Segmentation Structure | liver | liver_tumor |
-|-------------------------|-------|-------------|
-| Occurrence Count        | 197   | 197         |
-| Percentage of Occurrence | 100%  | 100%        |
-| Minimum Volume (cm鲁)    | 770   | 0.24        |
-| Median Volume (cm鲁)     | 1553.36 | 9.53      |
-| Maximum Volume (cm鲁)    | 3280.68 | 1099.98   |
+| Segmentation Structure   | liver   | liver_tumor |
+| ------------------------ | ------- | ----------- |
+| Occurrence Count         | 197     | 197         |
+| Percentage of Occurrence | 100%    | 100%        |
+| Minimum Volume (cm³)     | 770     | 0.24        |
+| Median Volume (cm³)      | 1553.36 | 9.53        |
+| Maximum Volume (cm³)     | 3280.68 | 1099.98     |
 
 ## Visualization
 

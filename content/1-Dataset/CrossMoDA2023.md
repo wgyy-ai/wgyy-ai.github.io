@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CrossMoDA 2023"
 dataset_path: "1-Dataset/CrossMoDA2023.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Corneal Nerve Tortuosity Dataset"
 dataset_path: "1-Dataset/Corneal_Nerve_Tortuosity.md"
@@ -80,10 +80,13 @@ Corneal Nerve Tortuosity Dataset
 
 ## Authors and Institutions
 
-Fabio Scarpa锛圲niversity of Padua, Italy锛?
-Xiaodong Zheng锛圗hime University School of Medicine, Japan锛?
-Yuichi Ohashi锛圗hime University School of Medicine, Japan锛?
-Alfredo Ruggeri锛圲niversity of Padua, Italy锛?
+Fabio Scarpa（University of Padua, Italy）
+
+Xiaodong Zheng（Ehime University School of Medicine, Japan）
+
+Yuichi Ohashi（Ehime University School of Medicine, Japan）
+
+Alfredo Ruggeri（University of Padua, Italy）
 
 ## Source Information
 

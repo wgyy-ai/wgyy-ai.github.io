@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CoCaHis"
 dataset_path: "1-Dataset/CoCaHis.md"
@@ -72,25 +72,43 @@ cocahis
 
 ## Authors and Institutions
 
-Dario Sitnik (Division of Electronics, Ru膽er Bo拧kovi膰 Institute)
+Dario Sitnik (Division of Electronics, Ruđer Bošković Institute)
+
+  
 
 Gorana Aralica (Department of Pathology and Cytology, Dubrava Clinical Hospital)
 
-Mirko Had啪ija (Division of Molecular Medicine, Ru膽er Bo拧kovi膰 Institute)
+  
 
-Marijana Popovi膰 Had啪ija (Division of Molecular Medicine, Ru膽er Bo拧kovi膰 Institute)
+Mirko Hadžija (Division of Molecular Medicine, Ruđer Bošković Institute)
 
-Arijana Pa膷i膰 (Department of Pathology and Cytology, Dubrava Clinical Hospital)
+  
 
-Marija Milkovi膰 Peri拧a (Zagreb Clinical Hospital Center; Institute of Pathology, Medical School, University of Zagreb)
+Marijana Popović Hadžija (Division of Molecular Medicine, Ruđer Bošković Institute)
 
-Luka Manojlovi膰 (Department of Pathology and Cytology, Dubrava Clinical Hospital)
+  
+
+Arijana Pačić (Department of Pathology and Cytology, Dubrava Clinical Hospital)
+
+  
+
+Marija Milković Periša (Zagreb Clinical Hospital Center; Institute of Pathology, Medical School, University of Zagreb)
+
+  
+
+Luka Manojlović (Department of Pathology and Cytology, Dubrava Clinical Hospital)
+
+  
 
 Karolina Krstanac (Department of Pathology and Cytology, Dubrava Clinical Hospital)
 
-Andrija Plaveti膰 (Institute of Pathology, Medical School, University of Zagreb)
+  
 
-Ivica Kopriva (Division of Electronics, Ru膽er Bo拧kovi膰 Institute)
+Andrija Plavetić (Institute of Pathology, Medical School, University of Zagreb)
+
+  
+
+Ivica Kopriva (Division of Electronics, Ruđer Bošković Institute)
 
 ## Source Information
 

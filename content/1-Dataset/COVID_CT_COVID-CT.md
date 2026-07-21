@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "COVID_CT_COVID-CT"
 dataset_path: "1-Dataset/COVID_CT_COVID-CT.md"

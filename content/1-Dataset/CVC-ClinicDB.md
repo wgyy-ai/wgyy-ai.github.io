@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CVC-ClinicDB"
 dataset_path: "1-Dataset/CVC-ClinicDB.md"
@@ -79,15 +79,15 @@ dataset
 
 Jorge Bernal (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
 
-F. Javier S谩nchez (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
+F. Javier Sánchez (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
 
-Gloria Fern谩ndez-Esparrach (Gastroenterology Department, Hospital Cl铆nic de Barcelona, Spain)
+Gloria Fernández-Esparrach (Gastroenterology Department, Hospital Clínic de Barcelona, Spain)
 
 Debora Gil (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
 
-Cristina Rodr铆guez (Gastroenterology Department, Hospital Cl铆nic de Barcelona, Spain)
+Cristina Rodríguez (Gastroenterology Department, Hospital Clínic de Barcelona, Spain)
 
-Fernando Vilari帽o (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
+Fernando Vilariño (Department of Computer Science and Computer Vision Center, Autonomous University of Barcelona, Spain)
 
 
 ## Source Information

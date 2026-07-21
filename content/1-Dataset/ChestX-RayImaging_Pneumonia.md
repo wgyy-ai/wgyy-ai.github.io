@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Chest X-Ray Imaging (Pneumonia) / 鑳搁儴 X 绾挎垚鍍忥紙鑲虹値锛?"
 dataset_path: "1-Dataset/ChestX-RayImaging_Pneumonia.md"
@@ -15,7 +15,7 @@ publication_date: "2022-07-04"
 tags:
   - dataset
 ---
-# Chest X-Ray Imaging (Pneumonia) / 鑳搁儴 X 绾挎垚鍍忥紙鑲虹値锛?
+# Chest X-Ray Imaging (Pneumonia) / 胸部 X 线成像（肺炎）
 <div align="center">
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/ChestX-RayImaging_Pneumonia_0.avif"></a>
 </div>

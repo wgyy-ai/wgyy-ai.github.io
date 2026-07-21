@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Cataract-1K"
 dataset_path: "1-Dataset/Cataract-1K.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CORN"
 dataset_path: "1-Dataset/CORN.md"

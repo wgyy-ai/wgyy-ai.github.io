@@ -1,16 +1,16 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "CRAG"
-dataset_path: "1-Dataset/CRAG.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: CRAG
+dataset_path: 1-Dataset/CRAG.md
+dimensions: 2D
+modality: Pathology
+task_type: Segmentation
+anatomical_structures: Colorectal adenocarcinoma
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://github.com/XiaoyuZHK/CRAG-Dataset_Aug_ToCOCO"
+number_of_categories: "1"
+data_volume: "213"
+file_format: .png
+source_url: https://github.com/XiaoyuZHK/CRAG-Dataset_Aug_ToCOCO
 publication_date: "2019"
 tags:
   - dataset

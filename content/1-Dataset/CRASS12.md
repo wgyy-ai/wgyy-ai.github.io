@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CRASS12"
 dataset_path: "1-Dataset/CRASS12.md"
@@ -83,7 +83,7 @@ CRASS12/
 
 LaurensHogeweg (Radboud University Nijmegen Medical Centre)
 
-Clara I.S谩nchez (Radboud University Nijmegen Medical Centre)
+Clara I.Sánchez (Radboud University Nijmegen Medical Centre)
 
 Pim A.de Jong (University Medical Center Utrech)
 

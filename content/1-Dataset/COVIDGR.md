@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "COVIDGR"
 dataset_path: "1-Dataset/COVIDGR.md"
@@ -83,23 +83,28 @@ COVIDGR
 
 S. Tabik (Spain, University of Granada)
 
-A. Go虂mez-Ri虂os (Spain, University of Granada)
+A. Gómez-Ríos (Spain, University of Granada)
 
-J.L. Marti虂n-Rodri虂guez锛圫pain, Hospital Universitario Cli虂nico锛?
-I. Sevillano-Garci虂a (Spain, University of Granada)
+J.L. Martín-Rodríguez（Spain, Hospital Universitario Clínico）
 
-M. Rey-Area (Spain, University of Vigo锛?
+I. Sevillano-García (Spain, University of Granada)
+
+M. Rey-Area (Spain, University of Vigo）
+
 D. Charte (Spain, University of Granada)
 
 E. Guirado (Spain, University of Alicante)
 
-J.L. Sua虂rez (Spain, University of Granada)
+J.L. Suárez (Spain, University of Granada)
 
 J. Luengo (Spain, University of Granada)
 
-M.A. Valero-Gonza虂lez锛圫pain, Hospital Universitario Cli虂nico锛?
-P. Garci虂a-Villanova锛圫pain, Hospital Universitario Cli虂nico锛?
-E. Olmedo-Sa虂nchez锛圫pain, Hospital Universitario Cli虂nico锛?
+M.A. Valero-González（Spain, Hospital Universitario Clínico）
+
+P. García-Villanova（Spain, Hospital Universitario Clínico）
+
+E. Olmedo-Sánchez（Spain, Hospital Universitario Clínico）
+
 F. Herrera (Spain, University of Granada)
 
 

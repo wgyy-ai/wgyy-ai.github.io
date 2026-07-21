@@ -1,17 +1,17 @@
 ---
 dataset_entry: true
-dataset_name: "MICCAI 2024 CARE MyoPS++"
-dataset_path: "1-Dataset/CARE_MyoPS++.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
-anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
+dataset_name: MICCAI 2024 CARE MyoPS++
+dataset_path: 1-Dataset/CARE_MyoPS++.md
+dimensions: 2D
+modality: MRI
+task_type: Segmentation
+anatomical_structures: Heart
+anatomical_area: Heart
+number_of_categories: "5"
+data_volume: scars (2221), edema (1220), left ventricle (500), right ventricle (600), and healthy myocardium (200)
 file_format: ""
-source_url: "http://zmic.org.cn/care_2024/track4/"
-publication_date: "2024-05-10"
+source_url: http://zmic.org.cn/care_2024/track4/
+publication_date: 2024-05-10
 tags:
   - dataset
 ---

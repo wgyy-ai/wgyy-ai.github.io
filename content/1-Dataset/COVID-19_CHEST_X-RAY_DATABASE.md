@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Dataset Name"
 dataset_path: "1-Dataset/COVID-19_CHEST_X-RAY_DATABASE.md"

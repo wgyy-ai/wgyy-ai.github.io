@@ -51,13 +51,13 @@ Number of two-dimensional slices in the data set: 23,472
 
 ### Preoperative ultrasound images
 
-| Metric              | Tumor  |
-|---------------------|--------|
-| Case Count          | 23     |
-| Coverage            | 100%   |
-| Min Volume (cm鲁)    | 0.61   |
-| Median Volume (cm鲁) | 12.43  |
-| Max Volume (cm鲁)    | 99.14  |
+| Metric              | Tumor |
+| ------------------- | ----- |
+| Case Count          | 23    |
+| Coverage            | 100%  |
+| Min Volume (cm³)    | 0.61  |
+| Median Volume (cm³) | 12.43 |
+| Max Volume (cm³)    | 99.14 |
 
 ### Intraoperative ultrasound images
 
@@ -65,9 +65,9 @@ Number of two-dimensional slices in the data set: 23,472
 |---------------------|-----------|
 | Case Count          | 21        |
 | Coverage            | 91%       |
-| Min Volume (cm鲁)    | 0.01      |
-| Median Volume (cm鲁) | 1.66      |
-| Max Volume (cm鲁)    | 7.49      |
+| Min Volume (cm³)    | 0.01      |
+| Median Volume (cm³) | 1.66      |
+| Max Volume (cm³)    | 7.49      |
 
 ### Postoperative ultrasound images
 
@@ -75,9 +75,9 @@ Number of two-dimensional slices in the data set: 23,472
 |---------------------|-----------|
 | Case Count          | 22        |
 | Coverage            | 96%       |
-| Min Volume (cm鲁)    | 0.44      |
-| Median Volume (cm鲁) | 2.46      |
-| Max Volume (cm鲁)    | 18.11     |
+| Min Volume (cm³)    | 0.44      |
+| Median Volume (cm³) | 2.46      |
+| Max Volume (cm³)    | 18.11     |
 
 ## Visualization
 
@@ -110,29 +110,52 @@ Number of two-dimensional slices in the data set: 23,472
 
 The data set file structure is as follows, which mainly displays ultrasound images and corresponding segmentation annotations.
 
-``` 
+```
+
 RESECT
-鈹溾攢鈹€ MINC
-鈹溾攢鈹€ NIFTI
-鈹?  鈹溾攢鈹€ Case1
-鈹?  鈹?  鈹溾攢鈹€ MRI
-鈹?  鈹?  鈹溾攢鈹€ Landmark
-鈹?  鈹?  鈹斺攢鈹€ US
-鈹?  鈹?      鈹溾攢鈹€ Case1-US-after.nii.gz
-鈹?  鈹?      鈹溾攢鈹€ Case1-US-after.nii.gz.md5
-鈹?  鈹?      鈹溾攢鈹€ Case1-US-before.nii.gz
-鈹?  鈹?      鈹溾攢鈹€ Case1-US-before.nii.gz.md5
-鈹?  鈹?      鈹溾攢鈹€ Case1-US-during.nii.gz
-鈹?  鈹?      鈹斺攢鈹€ Case1-US-during.nii.gz.md5
-鈹?  鈹斺攢鈹€ ...
+
+├── MINC
+
+├── NIFTI
+
+│   ├── Case1
+
+│   │   ├── MRI
+
+│   │   ├── Landmark
+
+│   │   └── US
+
+│   │       ├── Case1-US-after.nii.gz
+
+│   │       ├── Case1-US-after.nii.gz.md5
+
+│   │       ├── Case1-US-before.nii.gz
+
+│   │       ├── Case1-US-before.nii.gz.md5
+
+│   │       ├── Case1-US-during.nii.gz
+
+│   │       └── Case1-US-during.nii.gz.md5
+
+│   └── ...
+
 RESECT_segmentation
-鈹溾攢鈹€ Case1
-鈹?  鈹溾攢鈹€ Case1-US-after-resection.nii.gz
-鈹?  鈹溾攢鈹€ Case1-US-before-tumor.nii.gz
-鈹?  鈹斺攢鈹€ Case1-US-during-resection.nii.gz
-鈹溾攢鈹€ Case2
-鈹溾攢鈹€ Case3
-鈹斺攢鈹€ ...
+
+├── Case1
+
+│   ├── Case1-US-after-resection.nii.gz
+
+│   ├── Case1-US-before-tumor.nii.gz
+
+│   └── Case1-US-during-resection.nii.gz
+
+├── Case2
+
+├── Case3
+
+└── ...
+
 ```
 
 ## Authors and Institutions

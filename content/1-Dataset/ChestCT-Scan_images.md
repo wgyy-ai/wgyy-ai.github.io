@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Chest CT-Scan images"
 dataset_path: "1-Dataset/ChestCT-Scan_images.md"

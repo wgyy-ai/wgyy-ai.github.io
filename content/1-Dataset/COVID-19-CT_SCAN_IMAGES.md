@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "COVID-19-CT SCAN IMAGES"
 dataset_path: "1-Dataset/COVID-19-CT_SCAN_IMAGES.md"
@@ -78,9 +78,7 @@ COVID-19-CT SCAN IMAGES_COVID_datasets
 |--  Train.xls
 ```
 
-## Authors and Institutions
-
-`wj灏忕獥w`锛圓liyun user锛?
+## 
 
 ## Source Information
 

@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "Colonoscopic"
-dataset_path: "1-Dataset/Colonoscopic.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: Colonoscopic
+dataset_path: 1-Dataset/Colonoscopic.md
+dimensions: 2D
+modality: Endoscopy
+task_type: Detection
+anatomical_structures: Colon
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://www.depeca.uah.es/colonoscopy_dataset/"
-publication_date: "2016-9"
+number_of_categories: "3"
+data_volume: 76*2
+file_format: .mp4
+source_url: https://www.depeca.uah.es/colonoscopy_dataset/
+publication_date: 2016-9
 tags:
   - dataset
 ---

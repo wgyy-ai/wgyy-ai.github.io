@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CTSpine1K"
 dataset_path: "1-Dataset/CTSpine1K.md"

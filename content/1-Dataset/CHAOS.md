@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CHAOS"
 dataset_path: "1-Dataset/CHAOS.md"
@@ -107,42 +107,78 @@ Publication Date: 2019-04.
 
 ## Citation
 
-``` 
+```
+
 @article{CHAOS2021,
-  title = {{CHAOS Challenge - combined (CT-MR) healthy abdominal organ segmentation}},
-  journal = {Medical Image Analysis},
-  publisher= {Elsevier BV},
-  volume = {69},
-  pages = {101950},
-  year = {2021},
-  month = Apr,
-  issn = {1361-8415},
-  doi = {https://doi.org/10.1016/j.media.2020.101950},
-  url = {http://www.sciencedirect.com/science/article/pii/S1361841520303145},
-  author = {A. Emre Kavur and N. Sinem Gezer and Mustafa Bar谋艧 and Sinem Aslan and Pierre-Henri Conze and Vladimir Groza and Duc Duy Pham and Soumick Chatterjee and Philipp Ernst and Sava艧 脰zkan and Bora Baydar and Dmitry Lachinov and Shuo Han and Josef Pauli and Fabian Isensee and Matthias Perkonigg and Rachana Sathish and Ronnie Rajan and Debdoot Sheet and Gurbandurdy Dovletov and Oliver Speck and Andreas N眉rnberger and Klaus H. Maier-Hein and G枚zde {Bozda臒谋 Akar} and G枚zde 脺nal and O臒uz Dicle and M. Alper Selver},
-  keywords = {Segmentation, Challenge, Abdomen, Cross-modality},
+
+  title = {{CHAOS Challenge - combined (CT-MR) healthy abdominal organ segmentation}},
+
+  journal = {Medical Image Analysis},
+
+  publisher= {Elsevier BV},
+
+  volume = {69},
+
+  pages = {101950},
+
+  year = {2021},
+
+  month = Apr,
+
+  issn = {1361-8415},
+
+  doi = {https://doi.org/10.1016/j.media.2020.101950},
+
+  url = {http://www.sciencedirect.com/science/article/pii/S1361841520303145},
+
+  author = {A. Emre Kavur and N. Sinem Gezer and Mustafa Barış and Sinem Aslan and Pierre-Henri Conze and Vladimir Groza and Duc Duy Pham and Soumick Chatterjee and Philipp Ernst and Savaş Özkan and Bora Baydar and Dmitry Lachinov and Shuo Han and Josef Pauli and Fabian Isensee and Matthias Perkonigg and Rachana Sathish and Ronnie Rajan and Debdoot Sheet and Gurbandurdy Dovletov and Oliver Speck and Andreas Nürnberger and Klaus H. Maier-Hein and Gözde {Bozdağı Akar} and Gözde Ünal and Oğuz Dicle and M. Alper Selver},
+
+  keywords = {Segmentation, Challenge, Abdomen, Cross-modality},
+
 }
+
 @dataset{CHAOSdata2019,
-  author       = {Ali Emre Kavur and M. Alper Selver and O臒uz Dicle and Mustafa Bar谋艧 and  N. Sinem Gezer},
-  title        = {{CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation Challenge Data}},
-  month        = Apr,
-  year         = 2019,
-  publisher    = {Zenodo},
-  version      = {v1.03},
-  doi          = {10.5281/zenodo.3362844},
-  url          = {https://doi.org/10.5281/zenodo.3362844}
+
+  author       = {Ali Emre Kavur and M. Alper Selver and Oğuz Dicle and Mustafa Barış and  N. Sinem Gezer},
+
+  title        = {{CHAOS - Combined (CT-MR) Healthy Abdominal Organ Segmentation Challenge Data}},
+
+  month        = Apr,
+
+  year         = 2019,
+
+  publisher    = {Zenodo},
+
+  version      = {v1.03},
+
+  doi          = {10.5281/zenodo.3362844},
+
+  url          = {https://doi.org/10.5281/zenodo.3362844}
+
 }
+
 @article{kavur2019,
-  title = {Comparison of semi-automatic and deep learning based automatic methods for liver segmentation in living liver transplant donors},
-  author = {Kavur, A. Emre and Gezer, Naciye Sinem  and Bar谋艧, Mustafa and 艦ahin, Yusuf and 脰zkan, Sava艧 and Baydar,Bora and Y眉ksel, Ula艧 and K谋l谋k莽谋er, 脟a臒lar and Olut, 艦ahin and Bozda臒谋 Akar, G枚zde and 脺nal, G枚zde and Dicle, O臒uz and Selver, M. Alper},
-  journal = {Diagnostic and Interventional Radiology},
-  volume = {26},
-  pages = {11-21},
-  year = {2020},
-  month = Jan,
-  doi = {10.5152/dir.2019.19},
-  url = {https://doi.org/10.5152/dir.2019.19025}
+
+  title = {Comparison of semi-automatic and deep learning based automatic methods for liver segmentation in living liver transplant donors},
+
+  author = {Kavur, A. Emre and Gezer, Naciye Sinem  and Barış, Mustafa and Şahin, Yusuf and Özkan, Savaş and Baydar,Bora and Yüksel, Ulaş and Kılıkçıer, Çağlar and Olut, Şahin and Bozdağı Akar, Gözde and Ünal, Gözde and Dicle, Oğuz and Selver, M. Alper},
+
+  journal = {Diagnostic and Interventional Radiology},
+
+  volume = {26},
+
+  pages = {11-21},
+
+  year = {2020},
+
+  month = Jan,
+
+  doi = {10.5152/dir.2019.19},
+
+  url = {https://doi.org/10.5152/dir.2019.19025}
+
 }
+
 ```
 
 Original introduction article is [here](https://zhuanlan.zhihu.com/p/656644901).

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CMRxMotion"
 dataset_path: "1-Dataset/CMRxMotion.md"
@@ -49,13 +49,13 @@ Number of two-dimensional slices of training data: 1501 (statistics of 139 cases
 
 It is worth noting that out of the 160 cases in the training set, only 139 cases come with annotations. The unannotated data could not be labeled due to poor image quality.
 
-| Anatomical Structure    | Left Ventricle (LV) | Myocardium (Myo) | Right Ventricle (RV) |
-|-------------------------|---------------------------|----------------------|----------------------------|
-| Number of Cases         | 139                       | 139                  | 139                        |
-| Percentage              | 100%                      | 100%                 | 100%                       |
-| Minimum Volume (cm鲁)    | 34                        | 54                   | 44                         |
-| Median Volume (cm鲁)     | 107                       | 92                   | 121                        |
-| Maximum Volume (cm鲁)    | 222                       | 167                  | 257                        |
+| Anatomical Structure | Left Ventricle (LV) | Myocardium (Myo) | Right Ventricle (RV) |
+| -------------------- | ------------------- | ---------------- | -------------------- |
+| Number of Cases      | 139                 | 139              | 139                  |
+| Percentage           | 100%                | 100%             | 100%                 |
+| Minimum Volume (cm³) | 34                  | 54               | 44                   |
+| Median Volume (cm³)  | 107                 | 92               | 121                  |
+| Maximum Volume (cm³) | 222                 | 167              | 257                  |
 
 
 ## Visualization

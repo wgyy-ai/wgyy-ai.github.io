@@ -1,15 +1,15 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "CheXpert"
-dataset_path: "1-Dataset/CheXpert.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
-anatomical_area: ""
+dataset_name: CheXpert
+dataset_path: 1-Dataset/CheXpert.md
+dimensions: 2D
+modality: X-Ray
+task_type: Report generation, multimodal understanding
+anatomical_structures: Lungs, Chest, Heart
+anatomical_area: Lungs, Chest, Heart
 number_of_categories: ""
-data_volume: ""
-file_format: ""
+data_volume: 224K images, 36M text tokens
+file_format: "Image: .jpg, dicom, Text: csv"
 source_url: ""
 publication_date: ""
 tags:

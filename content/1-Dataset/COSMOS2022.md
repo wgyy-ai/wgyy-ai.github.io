@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "COSMOS2022"
 dataset_path: "1-Dataset/COSMOS2022.md"
@@ -47,13 +47,13 @@ Number of 2D slices in the dataset: 21600.
 
 ## Label Information Statistics
 
-| Metric               | Carotid vessel wall |
-|----------------------|---------------------|
-| Case Count           | 50                  |
-| Coverage             | 100%                |
-| Min Volume (cm鲁)     | 1.95                |
-| Median Volume (cm鲁)  | 4.12                |
-| Max Volume (cm鲁)     | 7.62                |
+| Metric              | Carotid vessel wall |
+| ------------------- | ------------------- |
+| Case Count          | 50                  |
+| Coverage            | 100%                |
+| Min Volume (cm³)    | 1.95                |
+| Median Volume (cm³) | 4.12                |
+| Max Volume (cm³)    | 7.62                |
 
 ## Visualization
 

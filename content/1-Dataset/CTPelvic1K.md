@@ -54,13 +54,13 @@ Number of slices with annotated data: 488,335 (statistics of 1106 actual downloa
 
 ## Label Information Statistics
 
-| Dataset Statistics  | Sacrum | Left Hip  | Right Hip   | Lumbar Spine   |
-|---------------------|------------|-----------------|-------------|----------------|
-| Detection Count     | 1106       | 1106            | 1106        | 1104           |
-| Detection Rate      | 100%       | 100%            | 100%        | 99.82%         |
-| Min Volume (cm鲁)    | 107        | 108             | 120         | 2              |
-| Median Volume (cm鲁) | 200        | 304             | 304         | 145            |
-| Max Volume (cm鲁)    | 373        | 573             | 562         | 338            |
+| Dataset Statistics  | Sacrum | Left Hip | Right Hip | Lumbar Spine |
+| ------------------- | ------ | -------- | --------- | ------------ |
+| Detection Count     | 1106   | 1106     | 1106      | 1104         |
+| Detection Rate      | 100%   | 100%     | 100%      | 99.82%       |
+| Min Volume (cm³)    | 107    | 108      | 120       | 2            |
+| Median Volume (cm³) | 200    | 304      | 304       | 145          |
+| Max Volume (cm³)    | 373    | 573      | 562       | 338          |
 
 
 ## Visualization

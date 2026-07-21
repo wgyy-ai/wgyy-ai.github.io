@@ -1,16 +1,16 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "CT-RATE"
-dataset_path: "1-Dataset/CT-RATE.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: CT-RATE
+dataset_path: 1-Dataset/CT-RATE.md
+dimensions: 2D
+modality: CT
+task_type: Captioning
+anatomical_structures: Chest
 anatomical_area: ""
 number_of_categories: ""
-data_volume: ""
+data_volume: 50,188
 file_format: ""
-source_url: "https://huggingface.co/datasets/ibrahimhamamci/CT-RATE"
+source_url: https://huggingface.co/datasets/ibrahimhamamci/CT-RATE
 publication_date: "2024.3"
 tags:
   - dataset

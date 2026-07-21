@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "CoronaHack"
 dataset_path: "1-Dataset/CoronaHack.md"

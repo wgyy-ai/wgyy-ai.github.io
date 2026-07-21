@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "CholecSeg8k"
-dataset_path: "1-Dataset/CholecSeg8k.md"
-dimensions: ""
-modality: ""
-task_type: ""
+dataset_name: CholecSeg8k
+dataset_path: 1-Dataset/CholecSeg8k.md
+dimensions: 2D
+modality: Endoscopy
+task_type: Segmentation
 anatomical_structures: ""
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://www.kaggle.com/datasets/newslab/cholecseg8k"
-publication_date: "2020-12"
+number_of_categories: "13"
+data_volume: "8080"
+file_format: .png
+source_url: https://www.kaggle.com/datasets/newslab/cholecseg8k
+publication_date: 2020-12
 tags:
   - dataset
 ---
