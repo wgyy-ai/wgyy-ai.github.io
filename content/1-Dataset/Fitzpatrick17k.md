@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Fitzpatrick 17k"
 dataset_path: "1-Dataset/Fitzpatrick17k.md"

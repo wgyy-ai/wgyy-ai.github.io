@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "Digital Knee X-ray Images"
-dataset_path: "1-Dataset/Digital_Knee_X-ray_Images.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: Digital Knee X-ray Images
+dataset_path: 1-Dataset/Digital_Knee_X-ray_Images.md
+dimensions: 2D
+modality: X-Ray
+task_type: Classification
+anatomical_structures: knee
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://data.mendeley.com/datasets/t9ndx37v5h/1"
-publication_date: "2020-6-23"
+number_of_categories: "5"
+data_volume: "1650"
+file_format: PNG
+source_url: https://data.mendeley.com/datasets/t9ndx37v5h/1
+publication_date: 2020-6-23
 tags:
   - dataset
 ---

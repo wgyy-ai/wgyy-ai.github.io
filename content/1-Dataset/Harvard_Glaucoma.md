@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Harvard Glaucoma Detection and Progression"
 dataset_path: "1-Dataset/Harvard_Glaucoma.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "GlaS"
 dataset_path: "1-Dataset/GlaS.md"

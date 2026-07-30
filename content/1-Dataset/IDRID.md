@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "IDRID"
-dataset_path: "1-Dataset/IDRID.md"
-dimensions: "2D"
-modality: "Retinal Image"
-task_type: "Segmentation"
-anatomical_structures: "Lesion"
-anatomical_area: "Eye"
+dataset_name: IDRID
+dataset_path: 1-Dataset/IDRID.md
+dimensions: 2D
+modality: Retinal Image
+task_type: Segmentation
+anatomical_structures: Lesion
+anatomical_area: Eye
 number_of_categories: "5"
 data_volume: "81"
-file_format: "image锛?jpg, mask: .tif"
-source_url: "https://idrid.grand-challenge.org/Home/"
-publication_date: "2018-07"
+file_format: .jpg,  .tif
+source_url: https://idrid.grand-challenge.org/Home/
+publication_date: 2018-07
 tags:
   - dataset
 ---
@@ -65,30 +65,58 @@ Diabetic Retinopathy is a leading cause of vision impairment. Recent research ha
 
 This dataset is a hierarchical structure for ophthalmic images and corresponding mask data. It contains a root directory named `IDRiD`, which includes two subdirectories: `images` and `masks`. The `images` directory is used to store the ophthalmic image data, while the `masks` directory is used to store the corresponding mask data.
 
-``` 
+```
+
 IDRID
-|--  images
-|        鈹溾攢train
-|--  IDRiD_01.jpg
-|--  IDRiD_02.jpg
-|--  ...
-|--  IDRiD_54.jpg
-|        鈹溾攢test
-|--  IDRiD_55.jpg
-|--  IDRiD_56.jpg
-|--  ...
-|--  IDRiD_81.jpg
-|--  masks
-|        鈹溾攢train
-|--  IDRiD_01.tif
-|--  IDRiD_02.tif
-|--  ...
-|--  IDRiD_54.tif
-|        鈹溾攢test
-|--  IDRiD_55.tif
-|--  IDRiD_56.tif
-|--  ...
-|--  IDRiD_81.tif
+
+│
+
+├── images
+
+│       ├─train
+
+│            ├── IDRiD_01.jpg
+
+│            ├── IDRiD_02.jpg
+
+│            ├── ...
+
+│            ├── IDRiD_54.jpg
+
+│       ├─test
+
+│            ├── IDRiD_55.jpg
+
+│            ├── IDRiD_56.jpg
+
+│            ├── ...
+
+│            ├── IDRiD_81.jpg
+
+│
+
+├── masks
+
+│       ├─train
+
+│            ├── IDRiD_01.tif
+
+│            ├── IDRiD_02.tif
+
+│            ├── ...
+
+│            ├── IDRiD_54.tif
+
+│       ├─test
+
+│            ├── IDRiD_55.tif
+
+│            ├── IDRiD_56.tif
+
+│            ├── ...
+
+│            ├── IDRiD_81.tif
+
 ```
 
 ## Authors and Institutions

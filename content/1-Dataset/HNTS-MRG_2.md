@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "MICCAI2024 HNTS-MRG Task2"
 dataset_path: "1-Dataset/HNTS-MRG_2.md"

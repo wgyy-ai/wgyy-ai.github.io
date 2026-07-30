@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "ImageClef-2019-VQA-Med"
 dataset_path: "1-Dataset/ImageClef-2019-VQA-Med.md"
@@ -32,9 +32,9 @@ The release of the ImageClef-2019-VQA-Med dataset not only plays a pivotal role 
 
 ## Dataset Meta Information
 
-| Task Type | Language | Train | Val | Test | File Format | Size |
-|------|----------|-------|----------|------|----|------|
-| VQA  | English  | 12792  | 2000   | 500  | .txt锛?jpg	 | 186M |
+| Task Type | Language | Train | Val  | Test | File Format | Size |
+| --------- | -------- | ----- | ---- | ---- | ----------- | ---- |
+| VQA       | English  | 12792 | 2000 | 500  | .txt, .jpg  | 186M |
 
 ## Dataset Information Statistics
 

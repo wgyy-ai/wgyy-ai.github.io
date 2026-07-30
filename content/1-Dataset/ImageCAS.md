@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "ImageCAS"
 dataset_path: "1-Dataset/ImageCAS.md"
@@ -46,13 +46,13 @@ Number of 2D slices in the dataset: 257,496
 
 ## Label Information Statistics
 
-| Metric               | Coronal Artery |
-|----------------------|----------------|
-| Case Count           | 1000           |
-| Coverage             | 100%           |
-| Min Volume (cm鲁)     | 1.92           |
-| Median Volume (cm鲁)  | 6.74           |
-| Max Volume (cm鲁)     | 16.52          |
+| Metric              | Coronal Artery |
+| ------------------- | -------------- |
+| Case Count          | 1000           |
+| Coverage            | 100%           |
+| Min Volume (cm³)    | 1.92           |
+| Median Volume (cm³) | 6.74           |
+| Max Volume (cm³)    | 16.52          |
 
 ## Visualization
 
@@ -81,37 +81,7 @@ ImageCAS/
 |--  ...
 ```
 
-## Authors and Institutions
-
-An Zeng (Guangdong University of Technology)
-
-Chunbiao Wu (Guangdong University of Technology)
-
-Guisen Lin (Shenzhen Children鈥檚 Hospital)
-
-Wen Xie (Southern Medical University)
-
-Jin Hong (Southern Medical University)
-
-Meiping Huang (Southern Medical University)
-
-Jian Zhuang (Southern Medical University)
-
-Shanshan Bi (Southern Medical University)
-
-Dan Pan (Missouri University of Science and Technology, USA)
-
-Najeeb Ullah (University of Engineering and Technology)
-
-Kaleem Nawaz Khan (University of Notre Dame, USA)
-
-Tianchen Wang (The Hong Kong University of Science and Technology)
-
-Yiyu Shi (University of Notre Dame, USA)
-
-Xiaomeng Li (The Hong Kong University of Science and Technology)
-
-Xiaowei Xu (Southern Medical University)
+##
 
 ## Source Information
 

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "EndoMapper"
 dataset_path: "1-Dataset/EndoMapper.md"
@@ -66,44 +66,6 @@ The official file structure is as follows, which is relatively complex, as shown
     <a href="https://github.com/openmedlab/"><img width="700px" height="auto" src="appendix/EndoMapper_2.webp"></a>
 </div>
 <p style="text-align:center;font-size:10px;"><em></em></p>
-
-## Authors and Institutions
-
-Pablo Azagra (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Carlos Sostres (Hospital Cl铆nico Universitario Lozano Blesa, Zaragoza, Spain & IIS Aragon & Ciberhd & University of Zaragoza, Spain)
-
-Angel Ferrandez (Hospital Cl铆nico Universitario Lozano Blesa, Zaragoza, Spain & IIS Aragon & Ciberhd & University of Zaragoza, Spain)
-
-Luis Riazuelo (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Clara Tomasini (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Oscar Le贸n Barbed (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Javier Morlana (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-David Recasens (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-V铆ctor M. Batlle (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Juan J. Gomez-Rodr铆guez (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Richard Elvira (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Julia Lopez (Hospital Cl铆nico Universitario Lozano Blesa, Zaragoza, Spain & University of Zaragoza, Spain)
-
-Cristina Oriol (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Javier Civera (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Juan D. Tardos (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Ana C. Murillo (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
-
-Angel Lanas (Hospital Cl铆nico Universitario Lozano Blesa, Zaragoza, Spain & IIS Aragon & Ciberhd & University of Zaragoza, Spain)
-
-Jose M.M. Montiel (Instituto de Investigacion en Ingenier铆a de Aragon (I3A) & University of Zaragoza, Spain)
 
 
 ## Source Information

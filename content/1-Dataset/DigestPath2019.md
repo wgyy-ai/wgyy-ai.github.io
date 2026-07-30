@@ -1,16 +1,16 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "DigestPath2019"
-dataset_path: "1-Dataset/DigestPath2019.md"
-dimensions: ""
-modality: ""
-task_type: ""
+dataset_name: DigestPath2019
+dataset_path: 1-Dataset/DigestPath2019.md
+dimensions: 2D
+modality: Pathology
+task_type: Segmentation，Detection，Classification
 anatomical_structures: ""
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://digestpath2019.grand-challenge.org/Home/"
+number_of_categories: "1"
+data_volume: "250"
+file_format: PNG
+source_url: https://digestpath2019.grand-challenge.org/Home/
 publication_date: "2019"
 tags:
   - dataset

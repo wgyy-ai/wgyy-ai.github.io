@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "EndoSLAM"
-dataset_path: "1-Dataset/EndoSLAM.md"
-dimensions: ""
-modality: ""
+dataset_name: EndoSLAM
+dataset_path: 1-Dataset/EndoSLAM.md
+dimensions: 2D
+modality: Endoscopy
 task_type: ""
 anatomical_structures: ""
 anatomical_area: ""
 number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://github.com/CapsuleEndoscope/EndoSLAM"
-publication_date: "2020-10"
+data_volume: "64577"
+file_format: PNG
+source_url: https://github.com/CapsuleEndoscope/EndoSLAM
+publication_date: 2020-10
 tags:
   - dataset
 ---

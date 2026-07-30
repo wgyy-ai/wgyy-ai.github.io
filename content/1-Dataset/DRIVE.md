@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "DRIVE"
 dataset_path: "1-Dataset/DRIVE.md"

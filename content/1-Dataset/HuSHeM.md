@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "HuSHeM"
-dataset_path: "1-Dataset/HuSHeM.md"
-dimensions: ""
-modality: ""
-task_type: ""
+dataset_name: HuSHeM
+dataset_path: 1-Dataset/HuSHeM.md
+dimensions: 2D
+modality: Microscopy
+task_type: Classification
 anatomical_structures: ""
-anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://data.mendeley.com/datasets/tt3yj2pf38/3"
-publication_date: "2017-06-24"
+anatomical_area: Pelvic cavity
+number_of_categories: "4"
+data_volume: "216"
+file_format: .bmp
+source_url: https://data.mendeley.com/datasets/tt3yj2pf38/3
+publication_date: 2017-06-24
 tags:
   - dataset
 ---

@@ -83,18 +83,32 @@ HaN-Seg is a publicly available head and neck region organ-at-risk (OAR) image s
 
 The official file structure is as follows, divided into 42 subfolders, organized as follows:
 
-``` 
+```
+
 Dataset
-鈹?鈹溾攢鈹€ OAR_data.csv
-鈹溾攢鈹€ patient_data.csv
-鈹溾攢鈹€ case_xx
-鈹?  鈹溾攢鈹€ case_XX_IMG_CT.nrrd
-鈹?  鈹溾攢鈹€ case_XX_IMG_MR_T1.nrrd
-鈹?  鈹溾攢鈹€ case_XX_OAR_Brainstem.seg.nrrd
-鈹?  鈹溾攢鈹€ case_XX_OAR_OpticChiasm.seg.nrrd
-鈹?  鈹溾攢鈹€ ...
-鈹溾攢鈹€ case_xx
-鈹?  鈹溾攢鈹€ ...
+
+│
+
+├── OAR_data.csv
+
+├── patient_data.csv
+
+├── case_xx
+
+│   ├── case_XX_IMG_CT.nrrd
+
+│   ├── case_XX_IMG_MR_T1.nrrd
+
+│   ├── case_XX_OAR_Brainstem.seg.nrrd
+
+│   ├── case_XX_OAR_OpticChiasm.seg.nrrd
+
+│   ├── ...
+
+├── case_xx
+
+│   ├── ...
+
 ```
 
 ## Authors and Institutions

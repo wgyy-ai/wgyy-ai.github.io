@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "FUMPE"
 dataset_path: "1-Dataset/FUMPE.md"
@@ -44,13 +44,13 @@ Number of slices based on the publicly available 35 training sets: 8792.
 
 ## Label Information Statistics
 
-| Segmentation Class | pulmonary embolism |
-|--------------------|-----------------------|
-| Case Count         | 33                    |
-| Detection Rate     | 94.29%                |
-| Min Volume (cm鲁)   | 0.3                   |
-| Median Volume (cm鲁)| 6.64                  |
-| Max Volume (cm鲁)   | 62.23                 |
+| Segmentation Class  | pulmonary embolism |
+| ------------------- | ------------------ |
+| Case Count          | 33                 |
+| Detection Rate      | 94.29%             |
+| Min Volume (cm³)    | 0.3                |
+| Median Volume (cm³) | 6.64               |
+| Max Volume (cm³)    | 62.23              |
 
 ## Visualization
 

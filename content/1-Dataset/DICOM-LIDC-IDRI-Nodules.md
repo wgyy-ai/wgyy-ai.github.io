@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "DICOM-LIDC-IDRI-Nodules Dataset"
 dataset_path: "1-Dataset/DICOM-LIDC-IDRI-Nodules.md"
@@ -51,9 +51,9 @@ Number of 2D slices in the dataset: 6814.
 |---------------------|-------------|
 | Case Count          | 31          |
 | Coverage            | 100%        |
-| Min Volume (cm鲁)    | 0.03        |
-| Median Volume (cm鲁) | 4.06        |
-| Max Volume (cm鲁)    | 45.28       |
+| Min Volume (cm³)    | 0.03        |
+| Median Volume (cm³) | 4.06        |
+| Max Volume (cm³)    | 45.28       |
 
 ## Visualization
 

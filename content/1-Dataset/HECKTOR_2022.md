@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "HECKTOR 2022"
 dataset_path: "1-Dataset/HECKTOR_2022.md"

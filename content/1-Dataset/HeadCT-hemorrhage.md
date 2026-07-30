@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Head CT-hemorrhage"
 dataset_path: "1-Dataset/HeadCT-hemorrhage.md"
@@ -106,10 +106,15 @@ Publication Date: 2019-09-06
 }
 
 @misc{headct3995,
-    title = { 澶撮儴CT鍥惧儚鏁版嵁 },
-    author = { 闅斿灏忚儢 },
-    howpublished = { \url{https://www.heywhale.com/mw/dataset/5d7213eb8499bc002c0af1e8} },
-    year = { 2019 },
+
+    title = { 头部CT图像数据 },
+
+    author = { 隔壁小胖 },
+
+    howpublished = { \url{https://www.heywhale.com/mw/dataset/5d7213eb8499bc002c0af1e8} },
+
+    year = { 2019 },
+
 }
 ```
 

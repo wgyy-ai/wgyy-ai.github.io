@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "ICIAR 2018 BACH Task1"
 dataset_path: "1-Dataset/ICIAR_2018_BACH_Task1.md"

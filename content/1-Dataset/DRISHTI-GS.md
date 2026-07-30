@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "DRISHTI-GS"
 dataset_path: "1-Dataset/DRISHTI-GS.md"
@@ -91,19 +91,6 @@ DRISHTI-GS
 `--   ...
 ```
 
-## Authors and Institutions
-
-Jayanthi Sivaswamy (IIIT, Hyderabad,India)
-
-S.R. Krishnadas (Arvind Eye Hospital, Madurai,India)
-
-Gopal Datt Joshi (IIIT, Hyderabad,India)
-
-Madhulika Jain (IIIT, Hyderabad,India)
-
-Ujjwal (IIIT, Hyderabad,India)
-
-Syed Tabish A. 锛圛IIT, Hyderabad,India锛?
 
 ## Source Information
 

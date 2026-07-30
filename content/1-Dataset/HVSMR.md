@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "HVSMR"
 dataset_path: "1-Dataset/HVSMR.md"

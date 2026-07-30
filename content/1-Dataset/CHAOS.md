@@ -88,11 +88,6 @@ CHAOS_Test_Sets
 |--  ...
 ```
 
-## Authors and Institutions
-
-Assoc. Prof. Dr. M. Alper SELVER (Dokuz Eyl眉l 脺niversitesi Elektrik-Elektronik M眉h)
-
-Dr. Ali Emre Kavur (Dokuz Eyl眉l 脺niversitesi Elektrik-Elektronik M眉h)
 
 
 ## Source Information

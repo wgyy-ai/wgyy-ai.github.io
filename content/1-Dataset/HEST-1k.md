@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "HEST-1k"
-dataset_path: "1-Dataset/HEST-1k.md"
-dimensions: ""
-modality: ""
+dataset_name: HEST-1k
+dataset_path: 1-Dataset/HEST-1k.md
+dimensions: 2D
+modality: Pathology, gene
 task_type: ""
 anatomical_structures: ""
 anatomical_area: ""
 number_of_categories: ""
-data_volume: ""
+data_volume: "1108"
 file_format: ""
-source_url: "https://github.com/mahmoodlab/hest"
-publication_date: "2024-06"
+source_url: https://github.com/mahmoodlab/hest
+publication_date: 2024-06
 tags:
   - dataset
 ---
@@ -41,9 +41,9 @@ HEST-1k's detailed expression-morphology pairings and extensive cellular structu
 
 ## Dataset Information Statistics
 
-| Slide | Expression鈥揗orphology Pairs | Nuclei       | Organ | Species |
-|-------|------------------------------|--------------|-------|---------|
-| 1,108 | 1.5 million                 | 60 million   | 25    | 2       |
+| Slide | Pairs       | Nuclei     | Organ | Species |
+| ----- | ----------- | ---------- | ----- | ------- |
+| 1,108 | 1.5 million | 60 million | 25    | 2       |
 
 
 <div align="center">
@@ -76,19 +76,6 @@ HEST-1k's detailed expression-morphology pairings and extensive cellular structu
 |-- xenium_seg
 ```
 
-## Authors and Institutions
-
-Guillaume Jaume锛圡ass General Brigham&Harvard Medical School锛?
-Paul Doucet锛圡ass General Brigham&ETH Zurich锛?
-Andrew H. Song锛圡ass General Brigham&Harvard Medical School锛?
-Ming Y. Lu锛圡ass General Brigham&Harvard Medical School锛?
-Cristina Almagro-P茅rez锛圡ass General Brigham&Harvard Medical School锛?
-Sophia J. Wagner锛圡ass General Brigham&TUM&Helmholtz Munich锛?
-Anurag J. Vaidya锛圡ass General Brigham&Harvard Medical School锛?
-Richard J. Chen锛圡ass General Brigham&Harvard Medical School锛?
-Drew F.K. Williamson锛圗mory School of Medicine锛?
-Ahrong Kim锛圥usan National University锛?
-Faisal Mahmood锛圡ass General Brigham&Harvard Medical School锛?
 ## Source Information
 
 Official Website: https://github.com/mahmoodlab/hest

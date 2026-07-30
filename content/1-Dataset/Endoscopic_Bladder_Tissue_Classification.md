@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "Endoscopic Bladder Tissue Classification Dataset"
-dataset_path: "1-Dataset/Endoscopic_Bladder_Tissue_Classification.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: Endoscopic Bladder Tissue Classification Dataset
+dataset_path: 1-Dataset/Endoscopic_Bladder_Tissue_Classification.md
+dimensions: 2D
+modality: Endoscopy
+task_type: Classification
+anatomical_structures: bladder
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://commons.datacite.org/doi.org/10.5281/zenodo.7741475"
-publication_date: "2023-03"
+number_of_categories: "4"
+data_volume: "1754"
+file_format: PNG
+source_url: https://commons.datacite.org/doi.org/10.5281/zenodo.7741475
+publication_date: 2023-03
 tags:
   - dataset
 ---

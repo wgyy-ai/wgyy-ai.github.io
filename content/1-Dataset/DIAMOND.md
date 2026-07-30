@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "MICCAI 2024 DIAMOND"
 dataset_path: "1-Dataset/DIAMOND.md"

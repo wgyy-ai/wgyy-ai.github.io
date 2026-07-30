@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Diabetic Retinopathy Arranged"
 dataset_path: "1-Dataset/DiabeticRetinopathyArranged.md"

@@ -1,17 +1,17 @@
-﻿---
+---
 dataset_entry: true
-dataset_name: "EMIDEC"
-dataset_path: "1-Dataset/EMIDEC.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
+dataset_name: EMIDEC
+dataset_path: 1-Dataset/EMIDEC.md
+dimensions: 3D
+modality: DE-MRI
+task_type: Segmentation
+anatomical_structures: Heart
 anatomical_area: ""
-number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://emidec.com/"
-publication_date: "2020-04"
+number_of_categories: "4"
+data_volume: "150"
+file_format: .nii.gz
+source_url: https://emidec.com/
+publication_date: 2020-04
 tags:
   - dataset
 ---

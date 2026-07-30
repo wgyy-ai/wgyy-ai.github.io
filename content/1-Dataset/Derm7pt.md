@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Derm7pt"
 dataset_path: "1-Dataset/Derm7pt.md"

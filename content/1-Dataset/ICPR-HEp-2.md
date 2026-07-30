@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "ICPR-HEp-2"
 dataset_path: "1-Dataset/ICPR-HEp-2.md"
@@ -75,12 +75,18 @@ The specific data visualization is as follows, all of which are 78x78 resolution
 
 The data set file structure is as follows. The downloaded version is the processed version. It is divided into two folders, `train`/`test`, to store the corresponding png files respectively. The `csv` saves the label information.
 
-``` 
-鈹溾攢 HEp-2
-    鈹斺攢 train
-    鈹斺攢 test
-    鈹斺攢 train.csv
-    鈹斺攢 test.csv
+```
+
+├─ HEp-2
+
+    └─ train
+
+    └─ test
+
+    └─ train.csv
+
+    └─ test.csv
+
 ```
 
 ## Authors and Institutions

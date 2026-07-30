@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Gleason 2019"
 dataset_path: "1-Dataset/Gleason2019.md"

@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "iChallenge-DeepDRiD-Task1"
 dataset_path: "1-Dataset/iChallenge-DeepDRiD-Task1.md"

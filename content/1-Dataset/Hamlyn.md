@@ -1,17 +1,17 @@
 ---
 dataset_entry: true
-dataset_name: "Hamlyn Endoscopic Video Datasets"
-dataset_path: "1-Dataset/Hamlyn.md"
-dimensions: ""
-modality: ""
-task_type: ""
-anatomical_structures: ""
-anatomical_area: ""
+dataset_name: Hamlyn Endoscopic Video Datasets
+dataset_path: 1-Dataset/Hamlyn.md
+dimensions: 2D
+modality: Endoscopy
+task_type: Monocular/Stereo Depth Estimation
+anatomical_structures: Abdominal cavity
+anatomical_area: Abdomen
 number_of_categories: ""
-data_volume: ""
-file_format: ""
-source_url: "https://hamlyn.doc.ic.ac.uk/vision/"
-publication_date: "2010-07 till now."
+data_volume: "38"
+file_format: .mp4
+source_url: https://hamlyn.doc.ic.ac.uk/vision/
+publication_date: 2010-07 till now.
 tags:
   - dataset
 ---
@@ -32,9 +32,9 @@ The release of this dataset provides significant support for research in medical
 
 ## Dataset Meta Information
 
-| Dimensions | Modality   | Task Type                         | Anatomical Structures | Anatomical Area | Data Volume | File Format |
-|------------|------------|-----------------------------------|-----------------------|-----------------|-------------|-------------|
-| 2D         | Endoscopy  | Monocular/Stereo Depth Estimation | Abdominal cavity      | Abdomen         | 38          | .mp4        |
+| Dimensions | Modality  | Task Type                         | Anatomical Structures | Anatomical Area | Data Volume | File Format |
+| ---------- | --------- | --------------------------------- | --------------------- | --------------- | ----------- | ----------- |
+| 2D         | Endoscopy | Monocular/Stereo Depth Estimation | Abdominal cavity      | Abdomen         | 38          | .mp4        |
 
 ## Data Information Statistics
 

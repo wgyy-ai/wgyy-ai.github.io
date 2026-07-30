@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Fractured Bone Detection"
 dataset_path: "1-Dataset/FracturedBoneDetection.md"

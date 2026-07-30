@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "Herlev"
 dataset_path: "1-Dataset/Herlev.md"
@@ -45,16 +45,15 @@ Cervical smears are a crucial component of cervical cancer screening. By providi
 
 ## Label Information Statistics
 
-| ID  | Category     | Cell Type                                    | Number |
+| ID  | Category     | Cell Type                                    | Number |
 |-----|--------------|----------------------------------------------|--------|
-| 1   | 姝ｅ父: Normal   | Superficial squamous epithelial              | 74     |
-| 2   | 姝ｅ父: Normal   | Intermediate squamous epithelial             | 70     |
-| 3   | 姝ｅ父: Normal   | Columnar epithelial                          | 98     |
-| 4   | 寮傚父: Abnormal | Mild squamous non-keratinizing dysplasia     | 182    |
-| 5   | 寮傚父: Abnormal | Moderate squamous non-keratinizing dysplasia | 146    |
-| 6   | 寮傚父: Abnormal | Severe squamous non-keratinizing dysplasia   | 197    |
-| 7   | 寮傚父: Abnormal | Squamous cell carcinoma in situ intermediate | 150    |
-
+| 1   | 正常: Normal   | Superficial squamous epithelial              | 74     |
+| 2   | 正常: Normal   | Intermediate squamous epithelial             | 70     |
+| 3   | 正常: Normal   | Columnar epithelial                          | 98     |
+| 4   | 异常: Abnormal | Mild squamous non-keratinizing dysplasia     | 182    |
+| 5   | 异常: Abnormal | Moderate squamous non-keratinizing dysplasia | 146    |
+| 6   | 异常: Abnormal | Severe squamous non-keratinizing dysplasia   | 197    |
+| 7   | 异常: Abnormal | Squamous cell carcinoma in situ intermediate | 150    |
 
 ## Visualization
 

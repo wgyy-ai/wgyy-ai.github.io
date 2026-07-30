@@ -1,4 +1,4 @@
-﻿---
+---
 dataset_entry: true
 dataset_name: "HRF Image Quality Assessment Dataset"
 dataset_path: "1-Dataset/HRF_IQA.md"
